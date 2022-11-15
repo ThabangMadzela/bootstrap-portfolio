@@ -20,7 +20,7 @@ body {
  */
 
 .banner-wrap {
-  background-image: url(./assets/img.jpg);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_J1NZThjZQ8OEeJmfeF0OBcB09oauxnp4w&usqp=CAU");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
